@@ -1,0 +1,11 @@
+[package]
+name = "mcwalk"
+version = "0.1.0"
+edition = "2021"
+description = "Firmlink-aware directory walking for macOS using Swift's FileManager"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/yourusername/mcwalk"
+keywords = ["macos", "firmlink", "filesystem", "directory", "walk"]
+categories = ["filesystem", "os::macos-apis"]
+
+[dependencies]
